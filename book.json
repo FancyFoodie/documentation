@@ -1,5 +1,8 @@
 {
-    "plugins": [ "theme-api" ],
+    "plugins": [
+        "theme-api",
+        "bootstrap-callout"
+    ],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
